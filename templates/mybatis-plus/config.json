@@ -2,7 +2,7 @@
   "fileStructure": "templates/mybatis-plus/fileStructure.ejs",
   "templates": [
     {
-      "name": "ddl",
+      "name": "ddl.sql",
       "from": "templates/db/mysql/ddl.sql",
       "to": "/sql/mysql/"
     },
