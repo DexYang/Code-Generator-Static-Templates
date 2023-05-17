@@ -2,13 +2,13 @@
   "fileStructure": "templates/mybatis-plus/fileStructure.ejs",
   "templates": [
     {
-      "name": "2-ddl_for_update.sql",
-      "from": "templates/db/mysql/2-ddl_for_update.sql",
+      "name": "ddl",
+      "from": "templates/db/mysql/ddl.sql",
       "to": "/sql/mysql/"
     },
     {
-      "name": "2-ddl_for_update.sql",
-      "from": "templates/db/postgresql/2-ddl_for_update.sql",
+      "name": "ddl.sql",
+      "from": "templates/db/postgresql/ddl.sql",
       "to": "/sql/postgresql/"
     },
     {
